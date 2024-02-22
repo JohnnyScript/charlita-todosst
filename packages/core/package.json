@@ -1,0 +1,18 @@
+{
+  "name": "@todoAppSst/core",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "sst bind vitest",
+    "typecheck": "tsc -noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "sst": "^2.40.3",
+    "vitest": "^1.3.1"
+  },
+  "dependencies": {
+    "mongoose": "^8.1.3",
+    "zod": "^3.22.4"
+  }
+}

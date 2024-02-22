@@ -1,0 +1,14 @@
+{
+  "availability-zones:account=905418173495:region=us-east-1": [
+    "us-east-1a",
+    "us-east-1b",
+    "us-east-1c",
+    "us-east-1d",
+    "us-east-1e",
+    "us-east-1f"
+  ],
+  "hosted-zone:account=905418173495:domainName=jpacheco.dev:region=us-east-1": {
+    "Id": "/hostedzone/Z0804784TCJD129PISYJ",
+    "Name": "jpacheco.dev."
+  }
+}
